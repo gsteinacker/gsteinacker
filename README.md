@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+More information about me, including a couple of technical articles, can be found here: [https://steinacker.name](https://steinacker.name)
+
 <!--
 **gsteinacker/gsteinacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
